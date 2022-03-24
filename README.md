@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashuotsh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashutosh</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
@@ -47,10 +47,10 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
+<!-- <br/>
 <br/>
 
-<a href="https://github.com/Ashu190301/github-readme-activity-graph"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashu190301&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashu190301&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
@@ -59,8 +59,11 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ashu-sahoo/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://www.linkedin.com/in/ashu-sahoo/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/ashu190301/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://leetcode.com/Ashu190301/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a> -->
+
+<a href="https://auth.geeksforgeeks.org/user/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://www.leetcode.com/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://www.hackerrank.com/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://linkedin.com/in/ashutosh sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh sahoo" height="30" width="40" /></a><a href="https://instagram.com/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashu190301#0431" height="30" width="40" /></a>
 
 </p>
 
