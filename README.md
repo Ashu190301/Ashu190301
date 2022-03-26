@@ -3,7 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashutosh</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
-## 🙋‍♂️ About Me
+<!-- <a href="#"><img width = "3%" height="auto" src="https://cdn.discordapp.com/attachments/935947545891442699/956554237565882448/680-it-developer-lineal.gif" height="175px"/></a>-->
+
+🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Nav-App**
 
@@ -16,18 +18,17 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/python.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/50/000000/external-nodemon-process-will-automatically-restart-when-your-code-changes-logo-green-tal-revivo.png"/> </a> 
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/nolan/50/mysql.png"/></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/mongodb.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -63,11 +64,16 @@
 <a href = "https://www.instagram.com/ashu190301/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://leetcode.com/Ashu190301/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a> -->
 
-<a href="https://auth.geeksforgeeks.org/user/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://www.leetcode.com/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://www.hackerrank.com/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://linkedin.com/in/ashutosh sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh sahoo" height="30" width="40" /></a><a href="https://instagram.com/ashu190301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashu190301" height="30" width="40" /></a><a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashu190301#0431" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?logo=geeksforgeeks&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-yellow?logo=leetcode&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-9cf?logo=hackerrank&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh sahoo" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ashutosh sahoo" height="30" width="40" /></a>
+<a href="https://instagram.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="ashu190301" height="30" width="40" /></a>
+<a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blueviolet?logo=discord&logoColor=white&style=flat" alt="ashu190301#0431" height="30" width="40" /></a>
 
 </p>
 
-<br/>
+<br />
 
 ## ❤ Views and Followers
 
