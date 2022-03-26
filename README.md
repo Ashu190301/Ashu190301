@@ -64,12 +64,12 @@
 <a href = "https://www.instagram.com/ashu190301/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://leetcode.com/Ashu190301/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a> -->
 
-<a href="https://auth.geeksforgeeks.org/user/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?logo=geeksforgeeks&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-yellow?logo=leetcode&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-9cf?logo=hackerrank&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh sahoo" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ashutosh sahoo" height="30" width="40" /></a>
-<a href="https://instagram.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blueviolet?logo=discord&logoColor=white&style=flat" alt="ashu190301#0431" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?logo=geeksforgeeks&logoColor=white&style=for-the-badge" alt="ashu190301"  /></a>
+<a href="https://www.leetcode.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-yellow?logo=leetcode&logoColor=white&style=for-the-badge" alt="ashu190301"  /></a>
+<a href="https://www.hackerrank.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-9cf?logo=hackerrank&logoColor=white&style=for-the-badge" alt="ashu190301"  /></a>
+<a href="https://linkedin.com/in/ashutosh sahoo" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ashutosh sahoo" /></a>
+<a href="https://instagram.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="ashu190301" /></a>
+<a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blueviolet?&style=for-the-badge&logo=discord&logoColor=white" alt="ashu190301#0431"  /></a>
 
 </p>
 
