@@ -42,10 +42,9 @@
 
 ## 📊 My Github Stats  <img align="right" src="https://komarev.com/ghpvc/?username=Ashu190301">
 
-  <br/>
-  <a href="https://github.com/Ashu190301/github-readme-stats"><img align="left" alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu190301&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ashu190301/github-readme-stats"><img align="right" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashu190301&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   
+ <br/>
+    <a href="https://github.com/Ashu190301/github-readme-stats"><img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashu190301&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ashu190301/github-readme-stats"><img  alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu190301&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
