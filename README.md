@@ -40,13 +40,14 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats  <img align="right" src="https://komarev.com/ghpvc/?username=Ashu190301">
 
   <br/>
-    <a href="https://github.com/Ashu190301/github-readme-stats"><img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashu190301&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ashu190301/github-readme-stats"><img alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu190301&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ashu190301/github-readme-stats"><img align="right" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashu190301&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ashu190301/github-readme-stats"><img align="left" alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu190301&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 <br/>
 <br/>
@@ -72,7 +73,7 @@
 <a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blueviolet?&style=for-the-badge&logo=discord&logoColor=white" alt="ashu190301#0431"  /></a>
 
 </p>
-
+<!-- 
 <br />
 
 ## ❤ Views and Followers
@@ -80,4 +81,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ashu190301">
 </a>
-<a href="https://github.com/Ashu190301?tab=followers"><img src="https://img.shields.io/github/followers/Ashu190301?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ashu190301?tab=followers"><img src="https://img.shields.io/github/followers/Ashu190301?label=Followers&style=social" alt="GitHub Badge"></a> -->
