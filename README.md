@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 <!-- <a href="#"><img width = "3%" height="auto" src="https://cdn.discordapp.com/attachments/935947545891442699/956554237565882448/680-it-developer-lineal.gif" height="175px"/></a>-->
-
+<!-- 
 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Nav-App**
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashu190301@gmail.com**
 
-- ⚡ Fun fact **I play games and watch anime.**
+- ⚡ Fun fact **I play games and watch anime.** -->
 
 ## 🚀 Languages and Tools:
 
