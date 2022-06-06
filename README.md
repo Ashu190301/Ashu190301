@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Ashutosh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashutosh</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 <!-- <a href="#"><img width = "3%" height="auto" src="https://cdn.discordapp.com/attachments/935947545891442699/956554237565882448/680-it-developer-lineal.gif" height="175px"/></a>-->
@@ -46,7 +46,6 @@
     <a href="https://github.com/Ashu190301/github-readme-stats"><img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashu190301&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ashu190301/github-readme-stats"><img  alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu190301&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
 
 <br/>
 <br/>
