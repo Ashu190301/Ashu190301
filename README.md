@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Ashutosh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashutosh</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 <!-- <a href="#"><img width = "3%" height="auto" src="https://cdn.discordapp.com/attachments/935947545891442699/956554237565882448/680-it-developer-lineal.gif" height="175px"/></a>-->
-
+<!-- 
 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Nav-App**
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashu190301@gmail.com**
 
-- ⚡ Fun fact **I play games and watch anime.**
+- ⚡ Fun fact **I play games and watch anime.** -->
 
 ## 🚀 Languages and Tools:
 
@@ -40,18 +40,18 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats  <img align="right" src="https://komarev.com/ghpvc/?username=Ashu190301">
 
-  <br/>
+ <br/>
     <a href="https://github.com/Ashu190301/github-readme-stats"><img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashu190301&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ashu190301/github-readme-stats"><img alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu190301&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ashu190301/github-readme-stats"><img  alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu190301&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
-<!-- <br/>
+<br/>
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashu190301&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashu190301&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,15 +64,15 @@
 <a href = "https://www.instagram.com/ashu190301/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://leetcode.com/Ashu190301/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a> -->
 
-<a href="https://auth.geeksforgeeks.org/user/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?logo=geeksforgeeks&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-yellow?logo=leetcode&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-9cf?logo=hackerrank&logoColor=white&style=flat" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh sahoo" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ashutosh sahoo" height="30" width="40" /></a>
-<a href="https://instagram.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="ashu190301" height="30" width="40" /></a>
-<a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blueviolet?logo=discord&logoColor=white&style=flat" alt="ashu190301#0431" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?logo=geeksforgeeks&logoColor=white&style=for-the-badge" alt="ashu190301"  /></a>
+<a href="https://www.leetcode.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-yellow?logo=leetcode&logoColor=white&style=for-the-badge" alt="ashu190301"  /></a>
+<a href="https://www.hackerrank.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-9cf?logo=hackerrank&logoColor=white&style=for-the-badge" alt="ashu190301"  /></a>
+<a href="https://linkedin.com/in/ashutosh sahoo" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ashutosh sahoo" /></a>
+<a href="https://instagram.com/ashu190301" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="ashu190301" /></a>
+<a href="https://discord.gg/ashu190301#0431" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blueviolet?&style=for-the-badge&logo=discord&logoColor=white" alt="ashu190301#0431"  /></a>
 
 </p>
-
+<!-- 
 <br />
 
 ## ❤ Views and Followers
@@ -80,4 +80,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ashu190301">
 </a>
-<a href="https://github.com/Ashu190301?tab=followers"><img src="https://img.shields.io/github/followers/Ashu190301?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ashu190301?tab=followers"><img src="https://img.shields.io/github/followers/Ashu190301?label=Followers&style=social" alt="GitHub Badge"></a> -->
